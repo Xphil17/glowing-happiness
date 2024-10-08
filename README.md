@@ -2,6 +2,8 @@
 Sea-Fi dApp for worldwide mariners 3.0
 Sea-Fi
 Overview
+
+
 Sea-Fi is an innovative platform designed to serve mariners during their port calls, addressing challenges like currency management, real-time information access, and introducing Game-to-Earn opportunities. By leveraging blockchain and DeFi technologies, Sea-Fi aims to drive the Mariner 3.0 revolution.
 
 Features
@@ -20,11 +22,11 @@ git clone https://github.com/YourUsername/Sea-Fi.git
 Navigate to the project directory:
 bash
 Copy code
-cd Sea-Fi
+cd sea-fi
 Follow the setup guide in the documentation folder.
 Roadmap
  Build and integrate currency management features
  Implement Game-to-Earn mechanics
  Develop real-time info modules
 License
-MIT License
+Apache License 2.0
