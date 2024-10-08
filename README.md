@@ -27,3 +27,4 @@ Roadmap
  Implement Game-to-Earn mechanics
  Develop real-time info modules
 License
+MIT License
