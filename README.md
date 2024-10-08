@@ -1,4 +1,4 @@
-# glowing-happiness
+# sea-fi
 Sea-Fi dApp for worldwide mariners 3.0
 Sea-Fi
 Overview
